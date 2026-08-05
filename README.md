@@ -6,6 +6,13 @@ I build practical solutions at the intersection of **Artificial Intelligence, Ge
 
 My work focuses on building AI-powered applications, agentic workflows, RAG systems, data analytics solutions, and cloud-based data applications.
 
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![SQL](https://img.shields.io/badge/SQL-Advanced-success)
+![Generative AI](https://img.shields.io/badge/Generative_AI-Projects-red)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-Google_ADK-purple)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-GCP-orange)
+![BigQuery](https://img.shields.io/badge/BigQuery-Analytics-blue)
+![Open to Work](https://img.shields.io/badge/Open_to-UAE_Jobs-brightgreen)
 ---
 
 ## 🚀 What I Build
