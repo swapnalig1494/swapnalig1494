@@ -12,7 +12,7 @@ My work focuses on building AI-powered applications, agentic workflows, RAG syst
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-Google_ADK-purple)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-GCP-orange)
 ![BigQuery](https://img.shields.io/badge/BigQuery-Analytics-blue)
-![Open to Work](https://img.shields.io/badge/Open_to-UAE_Jobs-brightgreen)
+
 ---
 
 ## 🚀 What I Build
